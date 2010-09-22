@@ -1,5 +1,7 @@
-Dependencies:
+Description:
+This is a twitter bot program on Google App Engine.
 
+Dependencies:
 python-atnd             http://github.com/yku/python-atnd
 simplejson              http://pypi.python.org/pypi/simplejson/
 AppEngine-OAuth-Library http://github.com/mikeknapp/AppEngine-OAuth-Library

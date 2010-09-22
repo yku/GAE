@@ -1,0 +1,5 @@
+cron:
+- description: daily execute
+  url: /
+  schedule: every day 5:30
+  timezone: Asia/Tokyo

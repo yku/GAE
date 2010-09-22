@@ -1,0 +1,20 @@
+Dependencies:
+
+python-atnd             http://github.com/yku/python-atnd
+simplejson              http://pypi.python.org/pypi/simplejson/
+AppEngine-OAuth-Library http://github.com/mikeknapp/AppEngine-OAuth-Library
+
+Directories:
+/
+|-main.py
+|-atnd.py
+|-oauth.py
+|-app.yaml
+|-cron.yaml
+|-simplejson/
+
+Notes:
+If you execute this script via GoogleAppEngineLauncher, you have to use python2.5.
+So, you type following:
+
+$ /usr/bin/python2.5 dev_appserver.py atndreminderbot
